@@ -1,0 +1,23 @@
+PODS:
+  - SnapKit (4.2.0)
+  - ZWTextView (0.1.0):
+    - SnapKit
+
+DEPENDENCIES:
+  - ZWTextView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  ZWTextView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  ZWTextView: eb565e4cf9093ad00575ca6323efa724be1c3161
+
+PODFILE CHECKSUM: c997ccff74f01cb35b697e6eb4a0d7578212d345
+
+COCOAPODS: 1.11.2

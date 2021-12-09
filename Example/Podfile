@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZWTextView_Example' do
+  pod 'ZWTextView', :path => '../'
+
+  target 'ZWTextView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

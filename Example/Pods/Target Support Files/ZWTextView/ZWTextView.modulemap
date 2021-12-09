@@ -1,0 +1,6 @@
+framework module ZWTextView {
+  umbrella header "ZWTextView-umbrella.h"
+
+  export *
+  module * { export * }
+}
