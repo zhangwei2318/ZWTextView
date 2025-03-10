@@ -30,6 +30,14 @@ public class ZWTextView: UIView {
     // 结束编辑回调
     public var textEndEditing: ((_ str: String) -> Void)?
     
+    // 文字
+    public var text: String? {
+        didSet {
+            textView.text = text
+            textPlView.isHidden = text?.count != 0 ? true: false
+        }
+    }
+    
     // 文字大小
     public var fontSize: CGFloat = 15 {
         didSet {

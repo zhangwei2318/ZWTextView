@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         textV.placeholderColor = .red
         textV.textColor = .green
         textV.maxCount = 10
+        textV.text = "今天是个好日子"
         view.addSubview(textV)
         textV.snp.makeConstraints { (make) in
             make.left.equalTo(20)

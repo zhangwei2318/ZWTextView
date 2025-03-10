@@ -212,12 +212,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 5TCGVAJKGF;
+						DevelopmentTeam = MR47KVPDHS;
 						LastSwiftMigration = 0900;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 5TCGVAJKGF;
+						DevelopmentTeam = MR47KVPDHS;
 						LastSwiftMigration = 0900;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
@@ -482,7 +482,7 @@
 			baseConfigurationReference = 23A4575DC3714795D83F259B /* Pods-ZWTextView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5TCGVAJKGF;
+				DEVELOPMENT_TEAM = MR47KVPDHS;
 				INFOPLIST_FILE = ZWTextView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -498,7 +498,7 @@
 			baseConfigurationReference = CB270E2B18B0E3B40EC0E7F5 /* Pods-ZWTextView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5TCGVAJKGF;
+				DEVELOPMENT_TEAM = MR47KVPDHS;
 				INFOPLIST_FILE = ZWTextView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
@@ -514,7 +514,7 @@
 			baseConfigurationReference = 2C973EADBA1049D1D764644B /* Pods-ZWTextView_Tests.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
-				DEVELOPMENT_TEAM = 5TCGVAJKGF;
+				DEVELOPMENT_TEAM = MR47KVPDHS;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -538,7 +538,7 @@
 			baseConfigurationReference = A85C94A2FE67998BAD18D547 /* Pods-ZWTextView_Tests.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
-				DEVELOPMENT_TEAM = 5TCGVAJKGF;
+				DEVELOPMENT_TEAM = MR47KVPDHS;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
